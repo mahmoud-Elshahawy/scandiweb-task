@@ -43,7 +43,7 @@ include('classes/database.php');
       <option value="">Please select one of the following</option>
       <option value="dvd" id="DVD">DVD</option>
       <option value="Furniture" id="Furniture">FURNITURE</option>    
-      <option value="book" id="Book">BOOK</option>    
+      <option value="Book" id="Book">BOOK</option>    
         </select>
     </div>
     <div class="col-sm-12 types" id="types"></div>

@@ -63,7 +63,7 @@ $('#add').on('click', function(){
     "<input type='number' class='form-control' id='length' placeholder='Length' name='length' required>" + 
     "</div></div>";
     }
-    else if(type.value="book"){
+    else if(type.value="Book"){
         document.getElementById('types').innerHTML="<div class='form-group row'><h4>Please, Provide weight</h4>"+
     "<label for='weight' class='col-sm-2 col-form-label'>Weight (KG)</label>"+
     "<div class='col-sm-8'>"+
