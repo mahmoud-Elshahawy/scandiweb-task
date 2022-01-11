@@ -1,0 +1,12 @@
+.container-fluid,.row{
+    margin-top: 20px;
+    
+}.products{
+    margin-bottom: 20px;
+    border: 2px solid black;
+    width: 80%;
+}.products input{
+    margin: 10px;
+}.products p{
+    text-align: center;
+}
